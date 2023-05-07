@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name"> Szőnyeg Shop </string>
+    <string name="login_hu">Bejelentkezés</string>
+    <string name="username_hu">Felhasználónév</string>
+    <string name="password_hu">Jelszó</string>
+    <string name="register_hu">Regisztráció</string>
+    <string name="email_hu">E-mail cím</string>
+    <string name="password_again_hu">Jelszó megerősítése</string>
+    <string name="cancel_hu">Mégse</string>
+    <string name="phone_number_hu">Telefonszám</string>
+    <string name="post_adress_hu">Postai cím</string>
+    <string name="city_hu">Varos</string>
+    <string name="street_hu">Utca Házszám (Emelet) (Ajtó)</string>
+    <string name="control_number_hu">Irányítószám</string>
+    <string name="postal_adress_hu">Postai Cím</string>
+    <string name="guest_login_hu">Bejelentkezés vendégként</string>
+    <string name="item_name_hu">A termék neve</string>
+    <string name="item_desc_hu">A termék leírása</string>
+    <string name="to_cart_hu">Kosárba</string>
+    <string name="item_price_placeholder">A termék ára</string>
+    <string name="item_type_placeholder">A termék típusa</string>
+    <string name="search">Search</string>
+    <string name="cart_hu">Kosár</string>
+    <string name="settings_hu">Beállítások</string>
+    <string name="logout_hu">Kijelentkezés</string>
+    <string name="picture_placeholder">A termék képe</string>
+    <string name="delete_hu">Törlés</string>
+    <string name="create_item_hu">Új szőnyeg felvétele a shop-ba</string>
+    <string name="carpet_name_hu">A szőnyeg neve</string>
+    <string name="carpet_type_hu">A szőnyeg típusa</string>
+    <string name="desc_hu">Leírás</string>
+    <string name="rating_hint">Értékelés (0–5)</string>
+    <string name="price_hint">Ár</string>
+    <string name="create_item_button">Felvétel</string>
+    <string name="upload_image">upload image</string>
+    <string name="select_image">Kép tallózása</string>
+    <string name="new_item">Új szőnyeg</string>
+    <string name="back">Vissza</string>
+    <string name="edit">Módosítás</string>
+    <string name="edit_carpet">Szőnyeg módosítása</string>
+    <string name="photo">Fotó</string>
+
+    <string-array name="itemNames">
+        <item> Langsted </item>
+        <item> Köge </item>
+        <item> Klockbuske </item>
+    </string-array>
+
+    <string-array name="itemType">
+        <item> Kis szőnyeg </item>
+        <item> Lábtörlő </item>
+        <item> Kézzel készített </item>
+    </string-array>
+
+    <string-array name="itemTypeFilter">
+        <item> Összes </item>
+        <item> Kis szőnyeg </item>
+        <item> Lábtörlő </item>
+        <item> Kézzel készített </item>
+    </string-array>
+
+    <string-array name="itemDescs">
+        <item> Szőnyeg, rövid szálú, világosszürke, 60x90 cm </item>
+        <item> Lábtörlő, szürke/fekete, 69x90 cm </item>
+        <item> Szőnyeg, síkszövött, sszürke/virág, 160x230 cm </item>
+    </string-array>
+
+    <string-array name="itemPrices">
+        <item> 2 490 Ft </item>
+        <item> 7 990 Ft </item>
+        <item> 79 990 Ft </item>
+    </string-array>
+
+    <array name="itemRatings">
+        <item>5</item>
+        <item>5</item>
+        <item>3</item>
+    </array>
+
+    <array name="itemImages">
+        <item>@drawable/langsted</item>
+        <item>@drawable/koge</item>
+        <item>@drawable/klockbuske</item>
+    </array>
+
+</resources>
